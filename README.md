@@ -1,4 +1,4 @@
-# 102R &emdash; How to Do Your Homework Faster
+# 102R &mdash; How to Do Your Homework Faster
 
 Notes &amp; Course Material for WUSTL CSE102R, a code skills addition to the intro computer engineering course.
 
