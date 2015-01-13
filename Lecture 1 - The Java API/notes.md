@@ -48,6 +48,7 @@ http://docs.oracle.com/javase/tutorial/java/concepts/package.html
 	- http://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
 	- http://docs.oracle.com/javase/7/docs/api/java/lang/String.html
 	- http://docs.oracle.com/javase/7/docs/api/java/lang/Math.html
+	- http://docs.oracle.com/javase/8/docs/api/java/util/logging/Logger.html
 	- Arrays?
 - important bits:
 	- first: name
@@ -96,7 +97,9 @@ http://docs.oracle.com/javase/tutorial/java/concepts/package.html
 		- modifier & type
 			- modifier: modifies the method, how it behaves
 				- access: who can call the method
-				- static: 
+				- static:
+					- http://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html
+					- http://www.tutorialspoint.com/java/java_nonaccess_modifiers.htm
 				- final:
 					- cannot be overwritten 
 					- http://stackoverflow.com/questions/15655012/how-final-keyword-works
@@ -119,6 +122,7 @@ http://docs.oracle.com/javase/tutorial/java/concepts/package.html
 				- specified by (which interface, class, parent, whatever declares — not defines — it)
 				- overrides— which *declared* method gets changed by this class
 					- http://stackoverflow.com/questions/94361/when-do-you-use-javas-override-annotation-and-why
+					- http://docs.oracle.com/javase/tutorial/java/IandI/override.html
 				- parameters
 				 	- more details on each parameter
 				- return
