@@ -1,0 +1,141 @@
+.slide {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+}
+
+.whatis {
+	background-image: url('img/cabinets.jpg');
+	color: #fff;
+}
+
+.meet {
+	background-image: url('img/team.jpeg');
+	color: #fff;
+}
+
+.fight {
+	background-image: url('http://stream1.gifsoup.com/view1/3415450/friends-fight-o.gif');
+	color: #fff;
+}
+
+.same {
+	background-image: url('http://25.media.tumblr.com/tumblr_ljor8pFpET1qfgd0ho1_500.gif');
+	color: #fff;
+}
+
+.nottime {
+	background-image: url('http://km.support.apple.com/library/APPLE/APPLECARE_ALLGEOS/HT1427/HT1427_05----en.png');
+}
+
+.finger {
+	background-image: url('https://mhcbiofeedback.files.wordpress.com/2015/01/2972699-0407562214-you12.jpg');
+}
+
+.screenie {
+	background-image: url('https://www.polarion.com/products/svn/subversive/screenshots/sc4b.gif');
+}
+
+.working1 {
+	background-image: url('img/working1.png');
+	color: #fff;
+}
+
+.working2 {
+	background-image: url('img/working2.png');
+	color: #fff;
+}
+
+.working3 {
+	background-image: url('img/working3.png');
+	color: #fff;
+}
+
+.working4 {
+	background-image: url('img/working4.png');
+	background-size: contain;
+	color: #fff;
+}
+
+.working5 {
+	background-image: url('img/working5.png');
+	color: #fff;
+}
+
+.internet {
+	background-image: url('img/teh_internet.jpg');
+	color: #fff;
+}
+
+	.internet .slide-content {
+	background: rgba(0,0,0,0.5);
+	}
+
+.tag1 {
+	background-image: url('img/tag1.png');
+	background-size: contain;
+	color: #fff;
+}
+
+.tag2 {
+	background-image: url('img/tag2.png');
+	background-size: contain;
+	color: #fff;
+}
+
+.branches {
+	background-image: url('img/branches.png');
+	background-size: contain;
+}
+
+.tarzan {
+	background-image: url('http://media.giphy.com/media/DLXGQflZqicHS/giphy.gif');
+}
+
+.sparta {
+	background-image: url('http://i.imgur.com/3CyiD.jpg');
+	color: #fff;
+}
+
+.sync1 {
+	background-image: url('img/sync1.png');
+	background-size: contain;
+}
+
+.sync2 {
+	background-image: url('img/sync2.png');
+	background-size: contain;
+}
+
+.sync3 {
+	background-image: url('img/sync3.png');
+	background-size: contain;
+}
+
+.sync4 {
+	background-image: url('img/sync4.png');
+	background-size: contain;
+}
+
+.sync5 {
+	background-image: url('img/sync5.png');
+	background-size: contain;
+}
+
+.sync6 {
+	background-image: url('img/sync6.png');
+	background-size: contain;
+}
+
+.gitdiff {
+	background-image: url('https://www.atlassian.com/pt/git/migration/pageSections/00/contentFullWidth/0/tabs/03/pageSections/0/contentFullWidth/0/content_files/file0/document/git-migration-centralized-vs-distributed.png');
+	background-size: contain;
+}
+
+.center {
+	text-align: center;
+}
+
+.gitbranch {
+	background-image: url('img/gitbranch.png');
+}
