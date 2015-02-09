@@ -5,10 +5,10 @@
 # Source control for the skeptical
 
 # What
-	- tracks changes
-	- maintains a history
-	- a narrative of your code development
-		- => find things you lost or deleted
+- tracks changes
+- maintains a history
+- a narrative of your code development
+	- => find things you lost or deleted
 
 # Why?
 
