@@ -18,6 +18,8 @@ public class StepCounted {
 	
 	public static void main(String[] args) {
 		for (int i = 0; i < 400; i++) {
+			long f = factorial(i);
+			double s = stirling(i);
 			System.out.println("i: " + i + " factorial: " + factorial(i) + "; stirling: " + stirling(i));
 		}
 

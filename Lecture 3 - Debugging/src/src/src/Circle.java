@@ -3,9 +3,13 @@ package src;
 public class Circle {
 
 	double radius;
+	double x;
+	double y;
 	
 	public Circle(double x, double y, double radius) {
 		this.radius = radius;
+		this.x = x;
+		this.y = y;
 	}
 	
 	public boolean inCircle(double x, double y) {
@@ -13,7 +17,7 @@ public class Circle {
 		// x^2 + y^2 = r^2
 		// so a point in the circle is <= that number
 		
-		boolean rtn = (Math.pow(x, 2) + Math.pow(y, 2) <= Math.pow(this.radius, 2));
+		boolean rtn = (Math.pow(x - this.x, 2) + Math.pow(y - this.y, 2) <= Math.pow(this.radius, 2));
 		
 		return rtn;
 	}
