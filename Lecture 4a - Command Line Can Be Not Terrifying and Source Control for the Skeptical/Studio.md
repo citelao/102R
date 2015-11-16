@@ -76,7 +76,7 @@ I want to show you how to pass content from one program to another.
 
 ### Get a coversheet
 
-1. Use `curl` to download the cover page for this assignment (URL HERE). Look up the documentation using `man`. As before, you shouldn't need any special arguments.
+1. Use `curl` to download the cover page for this assignment (`https://raw.githubusercontent.com/citelao/102R/master/Lecture%204a%20-%20Command%20Line%20Can%20Be%20Not%20Terrifying%20and%20Source%20Control%20for%20the%20Skeptical/cover-page.txt`). Look up the documentation using `man`. As before, you shouldn't need any special arguments.
 2. Save it to a file `cover-page.txt` in the first directory you created (the parent directory).
 
 ### Mark it up
