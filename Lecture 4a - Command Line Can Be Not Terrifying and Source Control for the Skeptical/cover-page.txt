@@ -1,0 +1,42 @@
+CSE132 Standard Cover Page
+
+By submitting this assignment, you certify that you have read, understood,
+and complied with the CSE 132 Collaboration Policy.
+
+You are also certifying that the following information is complete and truthful.
+
+Name:
+Email Address:
+Lab Section:
+
+CSE132 Lab 2
+
+Challenge level of this assignment (1 = very easy; 10 = very challenging): 
+Learning value of this assignment (1 = didn't learn anything; 10 = learned a lot): 
+
+Check one of the following:
+
+[ ] I worked on this lab entirely on my own, with help only from the TAs and the instructor.
+
+[ ] I received help from the following people or sources (other than the TAs or instructor).
+
+    List names here:
+    
+    
+[ ] I completed this lab using pair programming techniques with the following CSE 132 student.
+
+    Name of partner:
+    
+1. What's your starting working directory according to `pwd`?
+
+2. What files/folders are in the starting directory?
+
+3. Is there anything in your new directory? What did you call it?
+
+4. What is the absolute path of your subdirectory? What is its relative directory, relative to your home directory?
+
+5. How many times did you use the `man` command according to `grep` and `wc`?
+
+6. Vi, emacs, or nano? Thoughts?
+
+7. What's your funniest commit message?
